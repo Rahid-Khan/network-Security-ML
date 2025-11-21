@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: network
+Version: 0.0.1
+Author: Rahid Khan
+Author-email: rahidka524@gmail.com
+Requires-Dist: python_dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pymongo
+Requires-Dist: certifi
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
